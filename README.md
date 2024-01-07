@@ -1,15 +1,14 @@
 # steamlitchatpdf
 
-
-title: Chatpdf
-emoji: 👀
-colorFrom: purple
-colorTo: indigo
+---
+title: Image To Text App
+emoji: 📹
+colorFrom: blue
+colorTo: red
 sdk: streamlit
-sdk_version: 1.29.0
 app_file: app.py
 pinned: false
-license: mit
+---
 
-
-mmm
+# image2textapp
+demo of 🤗 spaces deployment of a streamlit python app
