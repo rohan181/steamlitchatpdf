@@ -1,4 +1,3 @@
-# steamlitchatpdf
 
 ---
 title: Image To Text App
@@ -8,7 +7,8 @@ colorTo: red
 sdk: streamlit
 app_file: app.py
 pinned: false
+pinned: false
 ---
 
-# image2textapp
+
 demo of 🤗 spaces deployment of a streamlit python app
